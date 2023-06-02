@@ -1,24 +1,26 @@
 <h1 align="center">Hey Everyone 👋, I'm Siddhant Yadav</h1>
-<h3 align="center">Experience as a DevOps Engineer in the computer software Industry responsible for the Code/Infrastructure deployments with Azure DevOps and AWS DevOps.Love to interact with people and like to learn new ways to grow together.
+<div align="center"> <img src="https://raw.githubusercontent.com/Sid-devops/Sid-devops/main/aditya-banner.png"> </div>
+<h3 align="center">Experience as a DevOps Engineer in the computer software Industry responsible for the Code/Infrastructure deployments with Azure DevOps and AWS DevOps.Love to interact with people and like to learn new ways to grow together.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sid-devops&label=Profile%20views&color=0e75b6&style=flat" alt="Sid-devops" /> </p>
 
-  - 🔭 I’m currently working on Cloud & DevOps Projects
+- 🔭 I’m currently working on DevOps Projects.
 
-- 🌱 I’m currently learning Cloud Devops & DevSecOps
+- 🌱 I’m currently learning **Cloud Devops & DevSecOps**
 
 - 👨‍💻 All of my projects are available at https://github.com/Sid-devops
 
-- 💬 Ask me about DevOps & Cloud DevOps
+- 💬 Ask me about **DevOps & Cloud DevOps**
 
-- 📫 How to reach me siddhantyadav2712@gmail.com
+- 📫 How to reach me **siddhantyadav2712@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/siddhantyadav2712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhantyadav2712" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/siddhantyadav2712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
 
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
