@@ -1,5 +1,4 @@
 <h1 align="center">Hey Everyone 👋, I'm Siddhant Yadav</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/Sid-devops/Sid-devops/main/aditya-banner.png"> </div>
 <h3 align="center">Experience as a DevOps Engineer in the computer software Industry responsible for the Code/Infrastructure deployments with Azure DevOps and AWS DevOps.Love to interact with people and like to learn new ways to grow together.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
