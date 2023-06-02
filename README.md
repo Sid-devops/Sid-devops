@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sid-devops&label=Profile%20views&color=0e75b6&style=flat" alt="Sid-devops" /> </p>
 
-- 🔭 I’m currently working on Cloud & DevOps Projects
+  - 🔭 I’m currently working on Cloud & DevOps Projects
 
 - 🌱 I’m currently learning Cloud Devops & DevSecOps
 
@@ -33,7 +33,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sid-devops&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/Sid-devops/Sid-devops/blob/output/github-contribution-grid-snake.svg)
 
 
