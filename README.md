@@ -2,6 +2,8 @@
 <h3 align="center">Experience as a DevOps Engineer in the computer software Industry responsible for the Code/Infrastructure deployments with Azure DevOps and AWS DevOps.Love to interact with people and like to learn new ways to grow together.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sid-devops&label=Profile%20views&color=0e75b6&style=flat" alt="Sid-devops" /> </p>
+
 - 🔭 I’m currently working on DevOps Projects.
 
 - 🌱 I’m currently learning **Cloud Devops & DevSecOps**
